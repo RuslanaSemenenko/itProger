@@ -9,6 +9,8 @@ export default function Header() {
     );
 }
 
+
+
 const styles = StyleSheet.create({
   main: {
     paddingTop: 50,
