@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, } from "react-native";
 export default function Header() {
     return (
       <View style={styles.main}>
-        <Text style={styles.text}> Checklist </Text>
+        <Text style={styles.text}>Checklist</Text>
       </View>
     );
 }
